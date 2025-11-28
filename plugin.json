@@ -7,6 +7,7 @@
   "type": "module",
   "framework": "react",
   "enabled": false,
+  "enrollStrategy": "auto",
   "devOnly": true,
   "entryPoints": {
     "web": "dist/index.js",
